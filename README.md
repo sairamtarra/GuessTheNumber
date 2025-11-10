@@ -1,2 +1,2 @@
 # GuessTheNumber
-Console-based Java Number Guessing Game using Core Java (Loops, Conditionals)
+A simple Java console game using Random and Scanner.
