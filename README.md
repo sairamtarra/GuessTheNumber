@@ -61,3 +61,6 @@ Enter your number:
 You Lost!
 ```
 (Actual result depends on the random number generated.)
+## 👨‍💻 Author  
+**SaiRam Tarra**  
+GitHub: https://github.com/sairamtarra
